@@ -27,6 +27,13 @@
 // console.log(arr[arr.length-1]);
 // console.log(arr[5]);
 
+/******My Exercise*******/
+
+let arr;
+arr = ["I","like","to","dance"];
+
+console.log(arr[3]);
+
 
 /* Array -Info, nicht klausurrelevant*/
 // let arr = [];
@@ -64,6 +71,21 @@
 // console.log(obj.sub1.val1);
 // console.log(obj.sub1);
 // {{{{}}}} nested object
+
+/******My Exercise*******/
+
+// var struc =
+//         {
+//         level1:
+//             {
+//             level2:
+//                 {
+//                 param1: 3.14,
+//                 param2: 10.01
+//                 }
+//             }
+//         };
+// console.log(struc.level1.level2);
 
 
  /*DOM*/

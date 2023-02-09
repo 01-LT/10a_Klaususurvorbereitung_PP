@@ -29,10 +29,12 @@
 
 /******My Exercise*******/
 
-let arr;
-arr = ["I","like","to","dance"];
+// let arr;
+// arr = [false,true,true,false];
 
-console.log(arr[3]);
+// console.log(arr[0]);
+// console.log(arr[arr.length-1]);
+
 
 
 /* Array -Info, nicht klausurrelevant*/
@@ -74,18 +76,19 @@ console.log(arr[3]);
 
 /******My Exercise*******/
 
-// var struc =
-//         {
-//         level1:
-//             {
-//             level2:
-//                 {
-//                 param1: 3.14,
-//                 param2: 10.01
-//                 }
-//             }
-//         };
-// console.log(struc.level1.level2);
+ var obj =
+        {
+         level1:
+             {
+                param1:12,
+             level2:
+                 {
+                 param2: 24
+                 }
+             }
+         };
+ console.log(obj.level1.param1);
+ console.log(obj.level1.level2.param2);
 
 
  /*DOM*/
